@@ -46,7 +46,7 @@ const Register = () => {
         <div className='w-full min-h-screen h-auto flex justify-center items-center shadow-lg shadow-red-600'>
 
             <form onSubmit={(e) => handleRegister(e)} className='w-[90%] md:w-[40%] px-6 py-10 mx-auto  rounded-md bg-[#e6cac4] shadow-lg shadow-orange-100'>
-                <div className='w-full text-center text-3xl font-serif my-10'><img src="register.png" alt="logo" className='ml-47 mt-0 rounded-full  '/></div>
+                <div className='w-full text-center text-3xl font-serif my-10'><img src="register.png" alt="logo" className=' text-center m-auto rounded-full items-center  '/></div>
                 
                     <div className='flex'>
                                 <div className=' w-full mx-auto'>
